@@ -177,7 +177,7 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 145px;
+    width: 190px;
 }
 .quiz_box header .timer .time_left_txt{
     font-weight: 400;
